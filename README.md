@@ -1,7 +1,7 @@
 # ICQ-Bot-Covid-19-information-and-development-forecasting-
 
 Description of bot functionality:
-    
+(nickname in ICQ: @covid19_info_bot) 
 News feed button: displays basic information about the status and development of COVID19 in Russia according to the data of the stopkoronovirus.ru portal.
 The data contains the top 10 news from the site and is updated every time the button is called.
 
